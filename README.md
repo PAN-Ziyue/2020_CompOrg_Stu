@@ -8,6 +8,7 @@
 
 ## Lab2问题
 
+* xdc引脚约束文件应该放进**Constraints**中，而不是**Design Sources**里。
 * `key_x`是什么信号，这个信号与`key_col`一样吗？
     * 这两个信号不一样。`key_col`从板级引脚中传过来，是不稳定的信号。通过在InputAntiJitter里整形后输出的`key_x`便是稳定的信号了。
 
