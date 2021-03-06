@@ -5,6 +5,8 @@
 
 * [Vivado安装说明（Win10）](./guide/Vivado的安装（Win10）.md)
   * 我下载不了安装器 => [Vivado Win10 Installer](https://pan.zju.edu.cn/share/2bf8125409716e04257aec3515)
+* Vivado的个人版是需要自己注册Xilinx的账户然后登陆的。
+* 由于众所周知的问题，Vivado的下载地址需要一些特殊的手段才能比较快地访问到，不过Installer的下载过程应该是比较顺畅的。
 
 ## Lab2问题
 
